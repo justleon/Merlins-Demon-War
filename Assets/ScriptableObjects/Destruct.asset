@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21ec46b1088405542859b94704d5c429, type: 3}
+  m_Name: Destruct
+  m_EditorClassIdentifier: 
+  cardName: Destruct
+  cardDescription: "Destroys the enemy, made by \u0141ukasz Pokorzy\u0144ski"
+  cost: 5
+  damage: 9
+  damageType: 3
+  cardImage: {fileID: 21300000, guid: d9caf060d3f21eb48bb3fd9e70e1762d, type: 3}
+  frameImage: {fileID: 21300000, guid: 44d9161a55f5989429e9365ce7bb2185, type: 3}
+  numberInDeck: 1
+  isDefenceCard: 0
+  isMirrorCard: 0
+  isMulti: 0
+  isDestruct: 1
